@@ -1,6 +1,6 @@
 # Laravel-inertia-react-tailwind-starter
 
-This is simple boilerplate for a Laravel application with Inertia, React and Tailwind. 
+This is a simple boilerplate for a Laravel application with Inertia, React and Tailwind. 
 
 ## Setup (development)
 
